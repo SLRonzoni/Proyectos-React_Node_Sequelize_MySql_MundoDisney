@@ -1,0 +1,204 @@
+.displayFlex{
+    display:Flex;
+}
+
+.responsive{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.itemResponsive{
+    flex: 150px  1   ;
+}
+
+.text{
+    margin:auto;
+    color:whitesmoke;
+    margin-top:-1%;
+}
+
+.textTitulo{
+    color:black;
+    margin-left:3rem;
+}
+
+.btnNvo{
+    margin-left:53rem;
+    margin-top:-3.5%;
+}
+
+.divBtnDesplegable{
+    display:inline-block;
+    text-align:center;
+    height:5rem;
+}
+
+.pBtnDesplegable{
+    margin-bottom:-1rem;
+}
+
+.selectBtnDesplegable{
+    background-color:whitesmoke;
+    color:black;
+    width:300px;
+    height:34px;
+}
+
+.lineAll{
+    margin:auto;
+    width:90%;  
+}
+
+.btnBuscaxPeli{
+    display:inline-block;
+    text-align:center;
+    margin:auto;
+    height:5rem; 
+}
+
+.colorWhitesmoke{
+    color:whitesmoke;
+}
+
+.bgWhitesmoke{
+    background-color:whitesmoke;
+}
+
+.containerAllMovie{
+    display:inline-block;
+    margin:auto;
+}
+
+.h1AllMovie{
+    color:whitesmoke;
+}
+
+.btnNvoAllMovie{
+    margin-left:4rem;
+}
+
+.marginAutoWidthAuto{
+    margin:auto;
+    width:auto;
+}
+
+.margen{
+    margin-left: 1.3%;
+    margin-right: 1.3%;
+}
+
+.containerEditChar{
+    width:59rem;
+    margin:auto;
+    background-color:whitesmoke;
+    box-shadow:3px 0px 5px 3px grey; 
+}
+
+.containerEditGender{
+    width:32rem;
+    height:auto;
+    margin:auto;
+    background-color:whitesmoke;
+    box-shadow:3px 0px 5px 3px grey; 
+}
+
+.divEditChar{
+    margin-left:3rem;
+    margin-bottom:0.5rem;
+}
+
+.list-group-flush{
+    margin:auto;
+    width:20rem;
+    display:flex; 
+}
+
+.list-group-flush-char{
+    margin:auto;
+    display:flex; 
+}
+
+.list-group-char{
+    margin:1rem;
+    width:29rem;
+    display:block; 
+}
+
+.list-group-movie{
+    margin:1rem;
+    width:59rem;
+    display:block; 
+}
+
+.div-input-edit-char{
+    display:block;
+    margin-left:4.5rem;
+    padding:0.5rem; 
+    text-align: center;
+}
+
+.input-edit-char{
+    text-align: center;
+}
+
+.colorBlack{
+    color:black;
+}
+
+.card-text-edit-gender{
+    margin:auto;
+    height:auto;
+}
+
+.containerEditMovie{
+    width:54rem;
+    margin:auto;
+    box-shadow:3px 0px 5px 3px grey; 
+}
+
+.fotoEditMovie{
+    margin-left:7rem;
+    height:8rem;
+    width: 6rem;
+    margin:auto;
+}
+
+.list-group-editMovie{
+    margin:auto;
+    width:24rem;
+    display:flex; 
+}
+
+.renglon{  
+    width:19rem ;   
+}
+
+.renglonNro{
+    text-align: center;
+    width:5% ; 
+}
+
+.renglonMovie{  
+    width:75rem ;   
+}
+
+.inputMovie{  
+    width:13rem ;   
+}
+
+.inputMovie-artistas{  
+    width:46rem ;   
+}
+
+.fotoEdit{
+    display:flex;
+    margin-left:5rem;
+    width:5rem;
+    height:6rem;
+    box-shadow:1px 0px 5px 2px grey;
+}
+
+.pEdit{
+    font-size: 110%;
+    color:dimgray
+}

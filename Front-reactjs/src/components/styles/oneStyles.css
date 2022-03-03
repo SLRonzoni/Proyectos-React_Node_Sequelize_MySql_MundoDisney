@@ -1,0 +1,84 @@
+.containerFijo{
+  
+  margin-top: 2.7%;
+}
+
+.card-list{
+   margin-left: 1rem;
+   margin-right: 1rem; 
+}
+
+.card-dimentions{
+    width: 23rem;
+    height: auto;
+    font: 0.1rem sans-serif;
+    display:inline-flex;
+    margin-right: 1rem;
+}
+
+.cardOne{
+    margin-top: 3.7%
+}
+
+.nombreTitulo{
+    width: auto;
+}
+.listMovie{
+    margin-left: -20%;
+    margin-top: 3.7%;
+}
+
+.list-dimentions{
+    width: auto;
+    height: auto;
+}
+
+.displayBlock{
+    display: block;
+}
+
+.movies-list{
+    background-color: whitesmoke;
+    width: 100%;
+    box-shadow:3px 0px 5px 3px grey; 
+}
+
+.centrar-thead{
+    text-align: center;
+    border:1px solid grey;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.centra-dato{
+    font-size: medium;
+    text-align: center;
+    border:1px solid grey;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: auto;
+}
+
+.imagenTabla{
+    width: 90%;
+}
+
+.ancho{
+    width: 10%;
+}
+
+.h2{
+    color:black;
+    font-size: 140%;
+    background-color:whitesmoke;
+    text-align: center;
+    width: 100%;
+    height:auto;
+    box-shadow:3px 0px 5px 3px grey; 
+}
+
+.textWhite{
+    color:white;
+}
+
+

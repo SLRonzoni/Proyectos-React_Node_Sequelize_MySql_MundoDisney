@@ -1,0 +1,160 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    /* background: linear-gradient(100deg, rgba(211,90,232,1) 0%, rgba(105, 139, 248, 0.92) 50%); */
+    background-color: #13161b;
+    width:100%;
+}
+
+.tituloListado{
+    background-color: aqua;
+    text-align: center;  
+}
+
+.btn{
+    text-align: center;
+    color:white;
+    text-decoration: none;
+    border: 1px solid white;
+    height: 29px;
+    font-size: 14px;
+    margin-top:4px;   
+   
+}
+
+.tituloItem{
+    color:#3C4657;    
+    font-size:calc(1px + 1rem) ;
+    text-align: center;
+    height:1rem;
+}
+
+
+.grupoBoton{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:20px;
+}
+
+.GrupoBtn{
+        display:flex;
+        flex-direction:column;
+}
+
+
+.Btn {
+        height:35px;
+        background-color:wheat;
+        border-radius:5px;
+        font-size:16px;
+        margin-top:30px;
+}
+
+/* .BtnForm{
+            width:85px;
+            height:50px;
+            border-radius:5px;
+            background-color:red;
+} */
+
+h1{
+    font-size: 25px;
+    text-align: center;
+    color:black;
+}
+
+
+.renglonBtn{  
+    color: black;
+    text-align: center;  
+}
+
+
+
+.modifBtn{  
+    color: white;
+    text-align: center;  
+    border-radius: 5px; 
+}
+
+.eliminaBtn{  
+    text-align: center;  
+    border-radius: 5px; 
+}
+
+
+h5{
+    margin-left:500px;
+}
+
+.modifH5{
+    margin-left:390px;
+}
+
+.modifInput{
+    margin-left:260px;
+}
+
+.botonNuevo{
+    margin-left: 25%;
+}
+
+.castillo{
+   display: flex;
+   margin: auto;
+   width: 34%;
+   height: 24%;
+}
+
+.bienvenidos{
+   color:whitesmoke;
+   font-size: 340%;
+   margin: auto;
+}
+
+.imagen-fluid, .nav-link{
+   margin-left: 50px;
+   margin-right:1px;
+}
+
+.logout{
+    color:whitesmoke;
+    background-color:transparent;
+    font-size: 20px;
+    margin-right: 30px;
+    width: 7%; 
+    height: auto;
+}
+
+.login {
+    color:whitesmoke;
+    background-color:transparent;
+    font-size: 20px;
+    width: 7%;
+    height: auto;  
+    
+}
+
+.margenEnd{
+    margin-left: 40%;
+    
+}
+.foto{
+    width: 40%;
+    margin-left:25%;
+   
+}
+
+.eneable{
+    opacity:1;
+}
+
+.disable{
+    opacity:0;
+}
+
+.centrar{
+    margin:auto;
+}

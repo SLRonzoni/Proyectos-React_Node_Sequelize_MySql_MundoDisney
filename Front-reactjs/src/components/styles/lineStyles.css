@@ -1,0 +1,37 @@
+.card{
+    height:19.3rem;
+    width:18rem;
+    box-shadow:3px 0px 5px 3px grey;
+    display:inline-flex;
+    margin: auto;
+    margin-left:1%;
+    margin-bottom:0.5%;
+}
+
+.centrar{
+    text-align: center;
+    justify-content: center;
+}
+
+.imagenChar{
+    display:flex;
+    margin:auto;
+    height:190px; 
+}
+
+.boton{
+    margin-left: 10%;
+}
+
+.imagenGender{
+    display:flex;
+    margin:auto;
+    height:6rem;
+    width: 19rem; 
+}
+
+
+.renglonLine{ 
+    margin-right:1rem;
+    margin-left:1rem; 
+}
