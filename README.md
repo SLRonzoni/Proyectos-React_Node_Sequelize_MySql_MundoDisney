@@ -1,5 +1,5 @@
 # Proyectos-React_Node_Sequelize_MySql_MundoDisney
-Chalenge Alkemy NodeJS
+
 
 Alkemy – Challenge Node JS                                                                                      
 
@@ -12,8 +12,7 @@ Se han desarrollado tests  con Mocha y Chai, y comprobaciones de funcionalidad c
 Además de los servicios solicitados en el proyecto para Movies y Characters,  implementación de base de datos de usuarios, registro y logueo;  el BackEnd  realiza los servicios relacionados a deslogueo de Users , altas, bajas y modificaciones de Genders.
 Cada usuario tiene permisos relacionados a su clave personal, un token y para el acceso a las rutas de servicio además, se han implementado roles para Administrador y Usuario común, mostrando opciones diferentes para cada rol. Los usuarios comunes solo pueden consultar , mientras que el administrador además puede modificar, eliminar y dar de alta.
                                
-               ![image](https://user-images.githubusercontent.com/77582867/156659285-89ebd784-8b22-4f63-991e-288f4c16c998.png)
-                
+
   
 Aclaraciones
 Dado los enunciados del challenge, se ha tomado a los “Characters”, como actores y actrices.
